@@ -1,0 +1,8 @@
+# image translate
+
+change filetype of image
+
+# use manual 
+create 2 filefold:
+	./source : The source folder stores the pictures in the origin format(default: eps)
+	./destination : The destination folder stores the pictures in the modified format(defaulu: png)
